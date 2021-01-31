@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3d736450f44b9e45b0d66aa26b8a6ce, type: 3}
+  m_Name: CharacterDatas
+  m_EditorClassIdentifier: 
+  CharacterDataList:
+  - Name: c1
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: 42fc8c51bce1e3b47a0473e7b0297e83, type: 3}
+      - {fileID: 21300000, guid: 05683e40e517fea4f9c5f4f633ce6800, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: a0181d6cf452ead43865335b60445f6b, type: 3}
+      - {fileID: 21300000, guid: fc2f81d4ee1fca74c93abd209f5b4a88, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: 1e6c03eb287014247aad658158d56bb6, type: 3}
+      - {fileID: 21300000, guid: 26dc4b48838e865498ae271cc15e13d4, type: 3}
+  - Name: c2
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: 2a3cd598eb8378b468aa1b3f39997cd2, type: 3}
+      - {fileID: 21300000, guid: b1e3765a071219640b3d13d9b98627ab, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: b6891c330f33ebf41a3fba68e2d40c0c, type: 3}
+      - {fileID: 21300000, guid: 4f03a90cfcc41cd4886ae9d737eb61d4, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: e69c6db7a49b55842931eed6dcfcbe4f, type: 3}
+      - {fileID: 21300000, guid: 913b23e20e60b1a49a19e55875bc0619, type: 3}
+  - Name: c3
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: b9cf57065d081004b960760490442c95, type: 3}
+      - {fileID: 21300000, guid: 840ba4b30ce9fbb4d904ad57d66221b2, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: 0c5167af298a4c44d89c4777800dcf24, type: 3}
+      - {fileID: 21300000, guid: 4106bb96dbb19c84d9dc8508dc7e4eb3, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: 99f91df95db1c8a4b890f022529a2c71, type: 3}
+      - {fileID: 21300000, guid: c75aaa423b4c4a44ea8b2586c47cf251, type: 3}
+  - Name: c4
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: a21ba0ce8c0f7d44b9ee1371215d9a7b, type: 3}
+      - {fileID: 21300000, guid: 9856c3dc9d3553b42a7bfdcba4b0f19c, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: cbef08de13a177147bdc8bba2e806474, type: 3}
+      - {fileID: 21300000, guid: 24b14b8eb2fdeef488b6f5cf8a160b87, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: 434f2f9e3092eb54084d81dd9d80c710, type: 3}
+      - {fileID: 21300000, guid: 11c6dc4ecfea3e94098fbf9f20f17fc4, type: 3}
+  - Name: c5
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: 340976ba7bd698d45b108e298e63f79a, type: 3}
+      - {fileID: 21300000, guid: 58e061af1c74cb54c8b0be47f6aabec4, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: 309b24d74c6b2dd4cbd65869c4f62dbf, type: 3}
+      - {fileID: 21300000, guid: b949a04a5c9f45c4abf80f552abae045, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: c4ae8b8ac227eab41937afe65c8497e9, type: 3}
+      - {fileID: 21300000, guid: b1b094092ab78dc4bbe546173ff3787b, type: 3}
+  - Name: c6
+    AnimSprites:
+      RunRightSprites:
+      - {fileID: 21300000, guid: 46dd8ae68b5571844ae444fed178b01c, type: 3}
+      - {fileID: 21300000, guid: dba12809422a44d4f931892439859694, type: 3}
+      RunLeftSprites:
+      - {fileID: 21300000, guid: 762290c15211b604ca78c1070be62867, type: 3}
+      - {fileID: 21300000, guid: 2d3006cb089bfa84996a1a3d8654c798, type: 3}
+      IdleSprites:
+      - {fileID: 21300000, guid: 435fc5fdca246f34784318f2d75e8821, type: 3}
+      - {fileID: 21300000, guid: 1e8ed79f3905fca4bb8fb9219a517ccd, type: 3}
